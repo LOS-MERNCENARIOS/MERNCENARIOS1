@@ -1,4 +1,8 @@
 Los integrantes del equipo son:
 Juan Guillermo Zapata Grajales
 Richar Escobar Baena
+<<<<<<< HEAD
 Juan David Ortiz Payares
+=======
+Edwin Alejandro Rios Piedrahita 
+>>>>>>> d2c691ec4c0e9f12ffb9b9680b907e7af8a2bd35
